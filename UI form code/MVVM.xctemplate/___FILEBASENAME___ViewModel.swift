@@ -1,4 +1,3 @@
-//  ___FILEBASENAME___.swift
 //
 //  ___FILENAME___
 //  ___PROJECTNAME___

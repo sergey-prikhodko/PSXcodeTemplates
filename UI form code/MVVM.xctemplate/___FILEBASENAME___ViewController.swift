@@ -1,4 +1,3 @@
-//  ___FILEBASENAME___.swift
 //
 //  ___FILENAME___
 //  ___PROJECTNAME___
@@ -22,9 +21,12 @@ final class ___VARIABLE_moduleName___ViewController: DefaultViewController {
 
         setupUI()
     }
+}
 
-    // MARK: - UI
+// MARK: - UI
 
-    private func setupUI() {
+private extension ___FILEBASENAMEASIDENTIFIER___ {
+    
+    func setupUI() {
     }
 }
